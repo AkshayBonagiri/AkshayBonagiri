@@ -14,7 +14,7 @@ I am a passionate learner with strong knowledge in Python and C++ programming, I
 
 ## 🏆 Achievements
 
-- **Gold Award – International Youth Robotics Competition (IYRC)** 🥇  
+- **Gold Award – International Youth Robotics Competition (IYRC) in South Korea** 🥇  
   - Built an **AI-powered plant environment setter** that automatically regulates temperature, humidity, and soil moisture.  
   - Integrated IoT sensors, automated irrigation, and climate control with live data monitoring.  
 
