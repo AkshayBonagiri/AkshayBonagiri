@@ -15,8 +15,6 @@ I am a passionate learner with strong knowledge in Python and C++ programming, I
 ## 🏆 Achievements
 
 - **Gold Award – International Youth Robotics Competition (IYRC) in South Korea** 🥇  
-  - Built an **AI-powered plant environment setter** that automatically regulates temperature, humidity, and soil moisture.  
-  - Integrated IoT sensors, automated irrigation, and climate control with live data monitoring.  
 
 - **Finalist – Vigyantram 2025 Grand Finale (IIT Delhi)** 🏅  
   - Developed a WiFi-controlled remote car using NodeMCU ESP8266 and L293N motor driver.  
